@@ -1,4 +1,4 @@
-### Olá! Sou a Gyovanna 👋
+### Olá! Sou a Gyovanna!
 
 <div align="center">
   <a href="https://github.com/gyovannacarvalho">
