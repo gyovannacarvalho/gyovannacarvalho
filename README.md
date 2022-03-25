@@ -1,4 +1,5 @@
-### Olá! Eu sou a **Gyovanna**! Bem vindo (a) ao meu perfil! 
+### Olá! Eu sou a **Gyovanna**! 
+Bem vindo(a) ao meu perfil! 
 
 <div align="center">
   <a href="https://github.com/gyovannacarvalho">
