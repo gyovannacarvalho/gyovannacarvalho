@@ -1,5 +1,5 @@
 ### Olá! Eu sou a **Gyovanna**!
-- Estudante de Sistemas de Informação na FIAP 
+- Estudante de Sistemas de Informação na FIAP;
 - Estagiária de Analise e Desenvolvimento.
 
 <div align="center">
